@@ -1,4 +1,5 @@
 # Program to take string in raw or coded form as input and provide coded or raw form.
+# Author: Lucifer BloodFallen
 
 #FUNCTIONS
 #start
