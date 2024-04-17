@@ -6,6 +6,7 @@ made using Python.....
 ---
 
 1. Coding Decoding
+1. Password Generator
 
 ---
 

@@ -48,4 +48,6 @@ if(inp == 1):
     codeit(txt)
 elif(inp == 2):
     decodeit(txt)
+else:
+    print("Please enter a valid number.")
 print("\n\n")
